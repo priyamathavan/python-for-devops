@@ -1,3 +1,3 @@
-text = "Python is awesome"
-new_text = text.replace("awesome", "great")
-print("Modified text:", new_text)
+message = "we will win"
+modified = message.replace("win","WIN")
+print("modified by making it uppercase:", modified)
